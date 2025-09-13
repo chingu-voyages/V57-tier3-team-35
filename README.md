@@ -38,6 +38,7 @@ coding!
 - Rajvardhan Ranawat: [GitHub](https://github.com/rajvardhan222) / [LinkedIn](https://linkedin.com/in/rajvardhanranawat)
 - Prakash Das: [Github](https://github.com/prakshh)
 - Shivam : [Github](https://github.com/shivam24161) / [LinkedIn](https://www.linkedin.com/in/shivam24161/)
+- Ryu : [Github](https://github.com/deruloxxx)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
