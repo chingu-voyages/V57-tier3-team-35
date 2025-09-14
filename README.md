@@ -28,14 +28,9 @@ Meeting Agenda templates (located in the `/docs` directory in this repo):
 - Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
 
 ## Our Team
+- Akiko Ikeda: [GitHub](https://github.com/AkoKBIkeda) / [LinkedIn](https://linkedin.com/in/akiko-kb-ikeda/)
+- Rajvardhan Ranawat: [GitHub](https://github.com/rajvardhan222) / [LinkedIn](https://linkedin.com/in/rajvardhanranawat)
+- Prakash Das: [Github](https://github.com/prakshh)
+- Shivam : [Github](https://github.com/shivam24161) / [LinkedIn](https://www.linkedin.com/in/shivam24161/)
+- Ryu : [Github](https://github.com/deruloxxx)
 
-Everyone on your team should add their name along with a link to their GitHub
-& optionally their LinkedIn profiles below. Do this in Sprint #1 to validate
-your repo access and to practice PR'ing with your team *before* you start
-coding!
-
-- Teammate name #1: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
-- Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
-
-   ...
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
