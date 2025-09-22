@@ -34,3 +34,5 @@ Meeting Agenda templates (located in the `/docs` directory in this repo):
 - Shivam : [Github](https://github.com/shivam24161) / [LinkedIn](https://www.linkedin.com/in/shivam24161/)
 - Ryu : [Github](https://github.com/deruloxxx)
 
+## License
+This project is released under the MIT License. See the [LICENSE](./LICENSE) file for full details.
