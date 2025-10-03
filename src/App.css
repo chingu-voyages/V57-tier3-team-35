@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans&family=Roboto&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #7776BC;
+  --color-secondary: #CDC7E5;
+  --color-background: #FFFBDb;
+  --color-info: #FFEC51;
+  --color-danger: #FF674D;
+  --font-heading: "Instrument Sans", sans-serif;
+  --font-body: "Roboto", sans-serif;
+}
+
+@layer base {
+  html {
+    @apply bg-background font-body;
+  }
+
+  /* Headings - three responsive sizes */
+  h1 { @apply text-4xl sm:text-5xl md:text-6xl font-heading font-bold mb-2; }
+  h2 { @apply text-3xl sm:text-4xl md:text-5xl font-heading font-semibold mb-2; }
+  h3 { @apply text-2xl sm:text-3xl md:text-4xl font-heading font-semibold mb-2; }
+  h4 { @apply text-xl sm:text-2xl md:text-3xl font-heading font-semibold mb-2; }
+  h5 { @apply text-lg sm:text-xl md:text-2xl font-heading font-semibold mb-1; }
+  h6 { @apply text-base sm:text-lg md:text-xl font-heading font-semibold mb-1; }
+
+  /* Paragraphs */
+  p  { @apply text-sm sm:text-base md:text-lg font-body font-normal mb-2; }
+
+  /* Links */
+  .link { @apply text-primary underline hover:text-secondary cursor-pointer; }
+
+  /* NavBar Links */
+  .nav-link {
+    @apply text-white font-heading font-medium cursor-pointer hover:text-black;
+  }
+
+  /* Buttons */
+  .button {
+    @apply bg-primary border-2 border-primary font-heading font-semibold text-white py-2 px-4 rounded-md hover:bg-secondary hover:text-black cursor-pointer;
+  }
+
+  /* Forms */
+  input, textarea {
+    @apply border-2 border-primary rounded px-2 py-1 focus:outline-none focus:ring-2 focus:ring-secondary;
+  }
+
+  label { @apply font-semibold self-start; }
+}

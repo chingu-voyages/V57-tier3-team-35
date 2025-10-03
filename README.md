@@ -29,7 +29,6 @@ Meeting Agenda templates (located in the `/docs` directory in this repo):
 
 ## Our Team
 - Akiko Ikeda: [GitHub](https://github.com/AkoKBIkeda) / [LinkedIn](https://linkedin.com/in/akiko-kb-ikeda/)
-- Rajvardhan Ranawat: [GitHub](https://github.com/rajvardhan222) / [LinkedIn](https://linkedin.com/in/rajvardhanranawat)
 - Prakash Das: [Github](https://github.com/prakshh)
 - Shivam : [Github](https://github.com/shivam24161) / [LinkedIn](https://www.linkedin.com/in/shivam24161/)
 - Ryu : [Github](https://github.com/deruloxxx)
